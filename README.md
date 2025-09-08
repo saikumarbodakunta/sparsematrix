@@ -9,6 +9,7 @@ Enter row, column, and value for each non-zero element:
 1 2 8
 
 #output
+
 5 0 0
 
 0 0 8
